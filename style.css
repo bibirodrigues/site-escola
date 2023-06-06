@@ -10,12 +10,12 @@ Style.css
     color:white;
     display: flex;
     justify-content: space-around;
-    align-items: center;
+    align-items: right;
     padding: 24px 0;
 }
 
 .cabeçalho-imagem{
-    width: 20%;
+    width: 15%;
 }
 
 .cabeçalho-lista-item{
@@ -24,10 +24,12 @@ Style.css
     font-size: 24px;
 }
 .escola-imagem{
-    width: 25%;
+    width: 50%;
+    align-items: left;
+    margin: 0 26px;
 }
 .escola{
-    background-image: linear-gradient( rgb(253, 100, 80), rgb(247, 194, 201));
+    background-image: linear-gradient( rgb(253, 83, 60), rgb(247, 194, 201));
     color:white;
     display: flex;
     justify-content: center;
@@ -36,7 +38,7 @@ Style.css
 }
 
 .escola-div-conteudo{
-width: 40%;
+width: 35%;
 
 }
 .escola-titulo{
