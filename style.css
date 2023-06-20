@@ -61,3 +61,7 @@ width: 45%;
 body{
     font-family: 'Poppins', sans-serif;
 }
+.estudante-todos{
+    display: inline-grid;
+    grid-template-columns: 20% 20% ;
+}
