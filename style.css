@@ -65,3 +65,17 @@ body{
     display: inline-grid;
     grid-template-columns: 20% 20% ;
 }
+
+.estudante {
+    display:flex;
+    flex-direction: column;
+}
+
+.estudante>div {
+    display:flex;
+    flex-direction: row;
+}
+.est{
+    display: flex;
+    flex-direction: row;
+}
